@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Pl@y WithMe</string>
+    <string name="titulo_aplicacion"> Enseñame a tocar !!</string>
+    <string name="descripcion_aplicacion">Pl@y WithMe</string>
+    <string name="empezar">Empezar</string>
+    <string name="que_usuario_eres">¿Qué usuario eres?</string>
+    <string name="alumno_label">ALUMNO</string>
+    <string name="profesor_label">PROFESOR</string>
+    <string name="que_deseas_hacer">Elije alguna opción</string>
+    <string name="registrar_profesor">Registrarse</string>
+    <string name="modificar_datos">Modificar Perfil</string>
+    <string name="info_button_registrarse_profesor">Elige esta opción si aún no tienes cuenta, necesitamos tus
+    datos para que tus alumnos puedan encontrarte!</string>
+    <string name="info_button_modificar_datos_profesor">Elige esta opción si quieres modificar tus datos personales,
+    como tu dirección,celular de contacto, etc</string>
+    <string name="info_button_eliminar_profesor">Elige esta opción si quieres eliminar tu perfil de la aplicación,
+    si eliminas tu perfil, los alumnos cerca de tu zona, no podran contactarte</string>
+    <string name="button_registrar">REGISTRARSE</string>
+    <string name="button_modificar">MODIFICAR PERFIL</string>
+    <string name="button_eliminar">ELIMINAR PERFIL</string>
+    <string name="completar_perfil">Completar Perfil</string>
+    <string name="hint_nombre">Nombre de perfil</string>
+    <string name="hint_email">Email de contacto</string>
+    <string name="hint_celular">Celular de contacto</string>
+    <string name="instrumento"> Instrumento que enseñas</string>
+
+    <string-array name="instrumentos">
+        <item>Guitarra</item>
+        <item>Bajo</item>
+        <item>Bateria</item>
+        <item>Contrabajo</item>
+        <item>Saxo</item>
+        <item>Flauta</item>
+    </string-array>
+
+    <string name="elegir_instrumento">Elija su instrumento</string>
+</resources>
