@@ -8,4 +8,3 @@ Stack
 - Retrofit 2
 - RxAndroid
 - Butterknife
-- MVP Pattern
